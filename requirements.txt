@@ -1,12 +1,1 @@
 streamlit
-I want to build a simple app using streamlit 
-Requirements:
-1.Create a main application window and while displaying it give me better animation design while opening it 
-2.display some college applications for the student with a beautiful design 
-3.display it with full screen of laptop with full of applications 
-
-4.add a beautiful animated college image 
-5.make the applications user friendly and easily 
-6.Handle basic errors while using the applications in the labels
-7.Keep the interface simple, clean ad beginner-friendly.
-
