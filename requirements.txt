@@ -1,3 +1,4 @@
+streamlit
 I want to build a simple app using streamlit 
 Requirements:
 1.Create a main application window and while displaying it give me better animation design while opening it 
